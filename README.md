@@ -7,7 +7,10 @@ A very simple two-motor soccer bot built using **Arduino Nano**, **L298N motor d
 I did not indicate the source from where the Arduino Nano will be getting it's 5V supply from as its up to the user how they would like to power it. I recommend using the 5v output from L298N motor driver as it excludes the need for an external power supply or a buck convertor. 
 
 Make sure to cover the key components with tape or any type of protective cover before using the bot in a competition as without it the bot's key components may be left vulnerable to collisions.
-Check out my build at ![Build](docs/build.png) to take reference for your own build. 
+Check out my build to take reference for your own build. 
+
+
+![Build](docs/build.png) 
 
 
 ## Parts list
